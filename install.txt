@@ -1,0 +1,4 @@
+####vmdStore#### START DelPhiForceVMD
+## Version XXversionXX
+<installation lines>
+####vmdStore#### END DelPhiForceVMD
